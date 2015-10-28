@@ -1,0 +1,7 @@
+wall,t,f,f
+floor,f,f,t
+container,t,t,t
+soliddecor,t,f,t
+door,t,f,f
+in door,f,f,t
+out door,f,f,t

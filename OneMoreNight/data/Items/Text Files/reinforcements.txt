@@ -1,0 +1,2 @@
+~Name,def effect,max def effect~
+Barricade,30,0

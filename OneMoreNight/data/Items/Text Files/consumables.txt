@@ -1,0 +1,23 @@
+~~~Name, Health +/-, Hunger +/-, Morale +/-, action~~~
+Apple,0,10,0,eaten
+Soup,10,20,0,eaten
+Chocolate Bar,0,5,10,eaten
+Beef Jerky,0,15,0,eaten
+Chili,0,25,0,eaten
+Moldy Sandwich,-10,20,-5,eaten
+MRE,0,30,0,eaten
+Energy Bar,10,15,0,eaten
+Tuna,0,25,0,eaten
+Nuts,0,5,0,eaten
+Dried Fruit,0,10,0,eaten
+Bandage,15,0,0,applied
+Pain Pills,20,0,0,taken
+Strong Pills,30,0,0,taken
+Herbs,5,5,5,eaten
+Gauze,10,0,0,applied
+First-Aid Kit,40,0,0,used
+Cigarettes,-10,0,15,smoked
+Music Player,0,0,15,listened to
+Book,0,0,20,read
+Alcohol,-10,0,30,drank
+Cards,0,0,10,played

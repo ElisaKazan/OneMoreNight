@@ -1,0 +1,31 @@
+Credits
+
+Game by:
+Elisa Kazan
+Kyle Causton
+
+Programmed in Processing
+
+Made for COMP1501: Intro to Game Design
+At Carleton University
+January 2015
+
+Soundtrack:
+"Deep Haze" Kevin MacLeod (incompetech.com) 
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+
+swoosh sound by kwahmah_02
+
+Special Thanks to:
+
+OC Transpo for always making me late to class,
+My cat for keeping me company on long programming nights,
+Elisa for putting up with my laziness,
+And some other stuff.
+
+Reviews:
+"titlescreen 2 gud" - Matt Magazine
+"good song" - MetaConnor
+"looks really good, gj" - Leaf Daily
+"11/10 soundtrack" - Mayer's Digest

@@ -1,0 +1,6 @@
+Outside,Nuts,Apple,Dried Fruit,Herbs
+House,ALL
+Hospital,Lore,Apple,Lore
+Grocery Store,Apple,Soup,Chocolate Bar,Energy Bar,Herbs
+Police Station,Lore,Police Baton,Pistol,Bandage,Cigarettes
+

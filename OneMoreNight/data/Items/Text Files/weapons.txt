@@ -1,0 +1,9 @@
+~~~ Name, damage, range, cooldown (in s), knockback(in p), loud?, ranged?~~~
+Bat,95,50,1,75,f,f
+Police Baton,80,30,0.25,25,f,f
+Crowbar,105,50,1,50,f,f
+Machete,110,50,0.75,30,f,f
+Shotgun,110,60,2,50,t,t
+Pistol,100,400,1,100,t,t
+Spiked Bat,120,50,1,30,f,f
+Dual Pistols,100,100,0.5,100,t,t
